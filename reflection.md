@@ -23,7 +23,34 @@ topic a little better?
 
 ->No 
 
+**02-a11y**
+
+❏ Were you able to complete the exercises on your own or did you use the
+videos or the solutions for help?
+
+->I saw the videos first and then wrote the code myself.
+
+❏ How helpful did you find the exercises in this section? Was there one
+exercise that was particularly helpful?
+
+->Semantics wise the exercise is very helpful when dealing with and creating webspages. I found the exercise on Accessibility mainly helpful for naming the classes and elements such that the readability increases.
+
+❏ Was there something that you wish had been explained better?
+
+->No.
+
+
+❏ Were there other exercises that might have helped you learn this week’s
+topic a little better?
+
+->No.
 
 ### Accessibility
 
+**01-html**
+
 All four exercises have been assessed for accessibility using both the Wave extension and the W3C Markup Validation tool for HTML. No errors were found during these evaluations. However, it seems that the link provided for loading the puppy images in the "02-images.html" exercise may no longer be valid, resulting in the webpage failing to display any puppy images. This issue could potentially impact accessibility. Please advise on an alternative link to resolve this matter.
+
+**02-a11y**
+
+The accessibility of the form has been assessed using the Wave extension and the W3C Markup Validation tool for HTML, both of which reported no errors.
