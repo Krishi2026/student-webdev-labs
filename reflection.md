@@ -130,6 +130,47 @@ topic a little better?
 
 ->No.
 
+**07-javascript**
+❏ Were you able to complete the exercises on your own or did you use the
+videos or the solutions for help?
+
+->I was able to complete the exercises by myself and also by checking the videos.
+
+❏ How helpful did you find the exercises in this section? Was there one
+exercise that was particularly helpful?
+
+->The exercises are helpful in understanding javascript, particularly information related to dom, functional.
+
+❏ Was there something that you wish had been explained better?
+
+->No.
+
+❏ Were there other exercises that might have helped you learn this week’s
+topic a little better?
+
+->No.
+
+**08-jquery**
+
+❏ Were you able to complete the exercises on your own or did you use the
+videos or the solutions for help?
+
+->I have seen your videos and solved htis exercise.
+
+❏ How helpful did you find the exercises in this section? Was there one
+exercise that was particularly helpful?
+
+->Both the exercises are helpful in understanding jqueries. Now I understood how to handle jqueries and can try working on my own without help. 
+
+❏ Was there something that you wish had been explained better?
+
+->No.
+
+❏ Were there other exercises that might have helped you learn this week’s
+topic a little better?
+
+->No.
+
 ### Accessibility
 
 **01-html**
@@ -153,5 +194,13 @@ The accessibility of the flexbox has been assessed using the Wave extension and 
 The accessibility of the css-grid has been assessed using the Wave extension and the W3C Markup Validation tool for HTML and CSS, both of which reported no errors.
 
 **06-bootstrap**
+
+The accessibility of the css-grid has been assessed using the Wave extension and the W3C Markup Validation tool for HTML and CSS, both of which reported no errors.
+
+**07-javascript**
+
+The accessibility of the css-grid has been assessed using the Wave extension and the W3C Markup Validation tool for HTML and CSS, both of which reported no errors.
+
+**08-*jquery**
 
 The accessibility of the css-grid has been assessed using the Wave extension and the W3C Markup Validation tool for HTML and CSS, both of which reported no errors.
